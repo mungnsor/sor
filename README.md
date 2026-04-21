@@ -31,3 +31,4 @@ pnpm --filter web dev
 ```
 
 Шинэ project нэмэхдээ `apps/<project-name>` дотор `package.json` үүсгэнэ.
+# sor
