@@ -3,8 +3,8 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "GrapQL",
-  description: "GrapQL web app",
+  title: "Nomad Edit",
+  description: "Curated ecommerce home page for modern living essentials.",
 };
 
 type RootLayoutProps = {
